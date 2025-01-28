@@ -1,4 +1,5 @@
-DadosDengueReact
+# DadosDengueReact
+
 Visão Geral
 O projeto DadosDengueReact é uma aplicação React que permite consultar e visualizar dados relacionados aos casos de dengue. A aplicação fornece uma interface web para buscar dados de dengue das ultimas 3 semanas exibindo-os de forma gráfica e interativa.
 
